@@ -1,2 +1,3 @@
-# HTML-Project
-This is a sample project that showcases HTML work 
+<h1>Profile</h1>
+<h2><nav>About</nav></h2>
+<p>Technical writer with more than 4 years of experience in documenting user guides, product manuals, release notes, blogs, whitepapers, FAQs and trouble shooting guides.</p>
